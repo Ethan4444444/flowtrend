@@ -2,7 +2,6 @@
 % Please edit documentation in _main.Rmd.
 \docType{package}
 \name{flowtrend-package}
-\alias{flowtrend}
 \alias{flowtrend-package}
 \title{flowtrend}
 \description{

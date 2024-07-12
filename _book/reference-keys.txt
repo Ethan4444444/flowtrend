@@ -32,9 +32,9 @@ summarizing-the-output
 cv-on-your-own-computer
 plotting
 testing-the-flowtrend-method
-id_1d-example
+d-example-1d-example
 testing-monotonicity-of-objective-values
-id_2d-example
+d-example-2d-example
 working-with-binned-dataset
 unevenly-spaced-inputs-x
 helpers-for-simulations
